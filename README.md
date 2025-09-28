@@ -54,16 +54,7 @@ The project is designed as a modern front-end application template, providing re
 
 👉 Add your demo video link here (e.g., YouTube):
 
-[![Watch the demo](https://img.shields.io/badge/▶️%20Watch-Demo-red)](https://www.youtube.com/)
-
----
-
-## 📷 Screenshots
-
-_Add screenshots of your app UI here:_
-
-![App Screenshot 1](docs/screenshot1.png)  
-![App Screenshot 2](docs/screenshot2.png)  
+[![Watch the demo](https://img.shields.io/badge/▶️%20Watch-Demo-red)]([https://www.youtube.com/](https://youtu.be/FHUcXzXb72I))
 
 ---
 
