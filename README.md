@@ -53,7 +53,7 @@ The project is designed as a modern front-end application template, providing re
 ## 🎥 Demo
 
 
-[![Watch the demo](https://img.shields.io/badge/▶️%20Watch-Demo-red)](https://youtu.be/FHUcXzXb72I))
+[![Watch the demo](https://img.shields.io/badge/▶️%20Watch-Demo-red)](https://youtu.be/FHUcXzXb72I)
 
 ---
 
